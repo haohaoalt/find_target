@@ -1,7 +1,7 @@
 <!--
  * @Author: zhanghao
  * @Date: 2022-07-09 09:22:43
- * @LastEditTime: 2022-07-09 11:00:47
+ * @LastEditTime: 2022-07-09 11:02:43
  * @FilePath: /find_target/README.md
  * @Description: how to run
 -->
@@ -17,6 +17,10 @@ cd mbot_voice/libs
 sudo cp libmsc.so /usr/lib/
 sudo apt install sox
 sudo apt install libsox-fmt-all
+```
+install gazebo models
+```bash
+https://github.com/haohaoalt/gazebo_models.git
 ```
 ```bash
 cd find_target
